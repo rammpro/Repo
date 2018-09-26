@@ -1,0 +1,15 @@
+/Users/mac/Projects/test/test/bin/test.dll
+/Users/mac/Projects/test/test/bin/test.pdb
+/Users/mac/Projects/test/test/bin/Newtonsoft.Json.dll
+/Users/mac/Projects/test/test/bin/System.Net.Http.Formatting.dll
+/Users/mac/Projects/test/test/bin/System.Web.Http.dll
+/Users/mac/Projects/test/test/bin/System.Web.Http.WebHost.dll
+/Users/mac/Projects/test/test/bin/System.Net.Http.Formatting.xml
+/Users/mac/Projects/test/test/bin/System.Web.Http.xml
+/Users/mac/Projects/test/test/bin/System.Web.Http.WebHost.xml
+/Users/mac/Projects/test/test/bin/Newtonsoft.Json.xml
+/Users/mac/Projects/test/test/obj/Debug/test.csprojAssemblyReference.cache
+/Users/mac/Projects/test/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/test/test/obj/Debug/test.csproj.CopyComplete
+/Users/mac/Projects/test/test/obj/Debug/test.dll
+/Users/mac/Projects/test/test/obj/Debug/test.pdb
